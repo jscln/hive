@@ -1,3 +1,5 @@
+## from Vessy: http://www.vesnam.com/Rblog/viznets3/
+
 mod.edge2HPD <- function(edge_df = NULL, unique.rows = TRUE, axis.cols = NULL, type = "2D", desc = NULL, edge.weight = NULL, edge.color = NULL, node.color = NULL, node.size = NULL, node.radius = NULL, node.axis = NULL) 
 {
   #edge.weight - a list corresponding to edge weights (same order as in edge_df)
